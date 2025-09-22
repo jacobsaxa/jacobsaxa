@@ -1,6 +1,6 @@
 # Hi, I'm Alex Jacobs
 
-I'm a recent graduate from the **University of Iowa** with a B.A. in **Computer Science** and a minor in **German**. I'm passionate about **AI technologies**, **Video Game Development**, and solving real-world problems through code.
+**University of Iowa** Alum with a Bachelor's in **Computer Science** and a minor in **German**. I'm passionate about **AI technologies**, **Video Game Development**, and solving real-world problems through code.
 
 ---
 
@@ -12,6 +12,8 @@ I'm a recent graduate from the **University of Iowa** with a B.A. in **Computer 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt= "Javascript" />
+          
 </p>
 
 ## Tools & Frameworks
